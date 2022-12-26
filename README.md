@@ -1,2 +1,3 @@
 # list_comp_learning
- Discovery of List Comprehensions
+ Discovery and incorporation of list Comprehensions
+
